@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 22 Aug 2011 18:17:52 +0530
+Source: ruby-foreigner
+Binary: ruby-foreigner
+Architecture: source all
+Version: 1.1.1-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Akshay Mankar <itsakshaymankar@gmail.com>
+Changed-By: Akshay Mankar <itsakshaymankar@gmail.com>
+Description: 
+ ruby-foreigner - Foreign Keys for Rails
+Closes: 638845
+Changes: 
+ ruby-foreigner (1.1.1-1) UNRELEASED; urgency=low
+ .
+   * Initial release (Closes: #638845)
+   * This is my first Debian package
+Checksums-Sha1: 
+ 6a745333ab178e8a3f89a86b1c7b7e392ad084d1 1927 ruby-foreigner_1.1.1-1.dsc
+ 6a27f3d7f2b1df08e92d172dfaea038b68d1a349 7464 ruby-foreigner_1.1.1.orig.tar.gz
+ 1e06f8489f51b25041021f031b4455a09618ed25 2350 ruby-foreigner_1.1.1-1.debian.tar.gz
+ 2758486898df0bf8a33446e07b71819092d28038 6584 ruby-foreigner_1.1.1-1_all.deb
+Checksums-Sha256: 
+ 7c6107db90a034d955c4b0f142df8d230db338445a164261985ab1de50a34745 1927 ruby-foreigner_1.1.1-1.dsc
+ 71bcf1e80b11950b3b3f5cbe614b21c09bcdf92acf3199500e3f4a9cff625bf4 7464 ruby-foreigner_1.1.1.orig.tar.gz
+ bc5bd680ec4026af1400ee588f20c2c8717ad10d83e7fe4056bcedcbea6a36f2 2350 ruby-foreigner_1.1.1-1.debian.tar.gz
+ 4a516a290abf2be7ea0829323f8657a6d54c8365946a3e84d0be6512205ca8f9 6584 ruby-foreigner_1.1.1-1_all.deb
+Files: 
+ 97165e90674f7fc00a6bcd727690253e 1927 ruby optional ruby-foreigner_1.1.1-1.dsc
+ 8ee910cbf9cf53334a358162b3b89623 7464 ruby optional ruby-foreigner_1.1.1.orig.tar.gz
+ 07f081396eeb19581ddab909ad986917 2350 ruby optional ruby-foreigner_1.1.1-1.debian.tar.gz
+ 5d6179a1c024b5d4629667e61f275662 6584 ruby optional ruby-foreigner_1.1.1-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJOU8F/AAoJEDrfmh+gvvH8oJ8P/Ry7lVjtiS0X6VB+oyAmTYSx
+PldD1XscM7qysmvq1KvGzuH5Gb9UG8fpYRqQOz841Q+0gapUbtkw+Sew5G0q+EEh
+IkWWqxjLNbKUPby7VXvb+EDdSFRDY9w1Qo9ftH36roaa3WuZHoAOmcKjB/zNgWCV
+gmEt/Zs8zP+IHoVLIb96xCiup64CXDDzG0gwtu1C7dH7mHuA6o74CvU63PHuRPFr
+g3sczmVBehfYB23Tr2dO9zbvUJdK/XmB3KEwH7+IHe6T9wA+/xxMkj5hUkyEmUAp
+eE2CvRCJ9x0LSosToq8B6RSeH5Q35xJ0mcU6cdMi3qc21ebk0hQCYxLBxCSa53WN
+eZYgwYESIZNnjLAjVx3nF8DqE8JLWIoyiRz1NihZ3jdMGE/abtgBhiP20uxLK03L
+5TW30OCghMSDAenugfiqKx+oMY6+kiCIBc3mFDbkx3qj921LI2xkjnzBnYpI2NyV
+ikxNq+doCgK8a+A6j7kyO2ERZnz+ZP25V0J8o0faK4AoKb/n55qDtR/XBRJINjrz
+HuYVXtPrqHc597uYsUum6WhKzuWPu52V8Wk4J0BL9VbWR9eXDwqj3pFqequ5/NJd
+F7Ler47Bwfs0a6SyXTSSMdRj8s4CF5s7h6aVjAyH0/qwOUoOFJG+wE6s9aFwacZ2
+YfichWkk/+XDuBgzAOHA
+=JJBE
+-----END PGP SIGNATURE-----
